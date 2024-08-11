@@ -8,3 +8,17 @@ First, Install `@commitlint` and its devdependencies in your project. Typically,
 
 ```bash
 pnpm add --save-dev @commitlint/cli @commitlint/config-conventional @commitlint/prompt-cli @commitlint/types @types/node husky
+
+
+## Available Scripts
+
+The following npm scripts are available in this project:
+
+### `prepare`
+
+```bash
+pnpm run prepare
+
+
+### `commit`
+pnpm run commit
